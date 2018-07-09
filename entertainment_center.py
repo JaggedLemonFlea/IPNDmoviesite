@@ -25,7 +25,7 @@ star_wars_V_info	= {	"title"		:	"Star Wars: Episode V - The Empire Strikes Back"
 avatar_info			= {	"title"		:	"Avatar",
 						"storyline" :	"Blue people defend their home world from the human invaders",
 						"poster"	:	"https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Avatar-Teaser-Poster.jpg/220px-Avatar-Teaser-Poster.jpg",
-						"trailer"	:	"https://www.youtube.com/embed/5PSNL1qE6VY"}
+						"trailer"	:	"https://www.youtube.com/watch?v=5PSNL1qE6VY&t=11s"}
 
 interstellar_info	= {	"title"		:	"Interstellar",
 						"storyline"	:	"A farmer goes through a black hole to save earth",
