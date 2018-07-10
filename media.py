@@ -19,4 +19,5 @@ class Movie():
         self.trailer_youtube_url = movieTrailer
 
     def show_trailer(self):
+    	# dispays the url passed in "self.trailer" in the default browser
     	webbrowser.open(self.trailer)
